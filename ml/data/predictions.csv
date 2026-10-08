@@ -1,0 +1,13 @@
+food_item,prediction_date,predicted_demand,recommended_prep_qty,confidence_score
+Chicken Biryani,2026-09-28,44,49,0.89
+Coffee,2026-09-28,159,175,0.95
+Cold Drink,2026-09-28,100,111,0.9
+Idli,2026-09-28,38,42,0.91
+Masala Dosa,2026-09-28,46,51,0.88
+Noodles,2026-09-28,50,56,0.93
+Pav Bhaji,2026-09-28,37,41,0.9
+Samosa,2026-09-28,92,102,0.9
+Tea,2026-09-28,223,246,0.9
+Vada Pav,2026-09-28,78,86,0.91
+Veg Biryani,2026-09-28,35,39,0.85
+Veg Sandwich,2026-09-28,48,53,0.92
